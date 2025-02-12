@@ -21,7 +21,7 @@ Build an AI Bible Quotation App that listens live during sermons and displays Bi
  
 ## Resources
 - **Design Specification:**  
-  Review the design and implementation guidelines at [gigsama.com/test/scripture-design](https://gigsama.com/test/scripture-design) (redirects to Figma).
+  Review the design and implementation guidelines at [https://www.figma.com/design/8ebbsZw1iDQVUKsCOxWgZV/Full-Stack-Dev-Test?node-id=3-1377&t=YgGx0fzn0VoNAiNR-1](https://www.figma.com/design/8ebbsZw1iDQVUKsCOxWgZV/Full-Stack-Dev-Test?node-id=3-1377&t=YgGx0fzn0VoNAiNR-1) (redirects to Figma).
 - **Bible Translations Database:**  
   [BibleTranslations on GitHub](https://github.com/jadenzaleski/BibleTranslations)
   Extract this database into your own database schema
