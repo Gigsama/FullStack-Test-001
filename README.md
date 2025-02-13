@@ -17,6 +17,7 @@ Build an AI Bible Quotation App that listens live during sermons and displays Bi
 
 - **Flexibility:**  
   - You may use alternative AI models, stacks, or additional enhancements as desired.
+  - It should be able to adapt to bible version changes. eg. "Give me the NIV" should switch the version.
   - The detection should be robust ie. handle explicit mentions of scriptures, scripture finding/quoting, implicit mentions eg. "Next Verse", etc just as in a sermon.
  
 ## Resources
