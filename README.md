@@ -17,7 +17,6 @@ Build an AI Bible Quotation App that listens live during sermons and displays Bi
 
 - **Flexibility:**  
   - You may use alternative AI models, stacks, or additional enhancements as desired.  
-  - The end product is what matters; no internal code documentation is required.
  
 ## Resources
 - **Design Specification:**  
@@ -26,6 +25,8 @@ Build an AI Bible Quotation App that listens live during sermons and displays Bi
 - **Bible Translations Database:**  
   [BibleTranslations on GitHub](https://github.com/jadenzaleski/BibleTranslations)
   Extract this database into your own database schema
+- **Help:**
+  You can use any AI model, stack overflow, etc to help you complete the test. Actually, we encourage it. It shows your resourcefulness & the end product is what matters!
 
 ## Submission
 - Host your project on GitHub.  
