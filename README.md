@@ -33,4 +33,7 @@ Build an AI Bible Quotation App that listens live during sermons and displays Bi
 - Host your project on GitHub.  
 - Submit your project via the [gigsama.com talent portal](https://talent.gigsama.com/).
 
+## Reward
+- If you're in the top 5 of submissions, you will receive GHS 1k and get a final interview with our team
+
 Good luck!
