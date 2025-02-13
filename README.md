@@ -1,7 +1,7 @@
 # AI Bible Quotation App Test
 
 ## Overview
-Build an AI Bible Quotation App that listens live during sermons and displays Bible quotations in real time. When the user taps a button, the app streams voice to a server. The server transcribes the audio using OpenAI Whisper (tiny model), streams the transcription to Google Gemini Flash (or an equivalent model) to extract a Bible quote address (if detected), queries a Bible database for the full quotation, and returns it for display.
+Build an AI Bible Quotation App that listens live during sermons and displays Bible quotations in real time. When the user taps a button, the app streams voice to a server. The server transcribes the audio using OpenAI Whisper (tiny model), streams the transcription to Google Gemini Flash (or an equivalent model) to extract a Bible quote address (if detected or implied), queries a Bible database for the full quotation, and returns it for display.
 
 ## Requirements
 - **Frontend:**  
@@ -16,7 +16,8 @@ Build an AI Bible Quotation App that listens live during sermons and displays Bi
   - Return the full Bible quotation for live display on the frontend.
 
 - **Flexibility:**  
-  - You may use alternative AI models, stacks, or additional enhancements as desired.  
+  - You may use alternative AI models, stacks, or additional enhancements as desired.
+  - The detection should be robust ie. handle explicit mentions of scriptures, scripture finding/quoting, implicit mentions eg. "Next Verse", etc just as in a sermon.
  
 ## Resources
 - **Design Specification:**  
